@@ -1,0 +1,11 @@
+/target/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and operating-system files
+*.log
+.DS_Store
+Thumbs.db
